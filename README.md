@@ -1,16 +1,19 @@
-## Hi there 👋
-
-<!--
-**reshmagutala4/reshmagutala4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi,  I'm Reshma Gutala
+MBA Finance graduate | Financial Modeling | Valuation | Financial Analysis
+## Professional Summary
+Finance Postgraduate with  strong academic foundation and project-based experience in financial modeling, equity valuation, portfolio optimization, and data-driven financial analysis using Excel, Python and Power BI.
+## Core Skills
+- Financial Modeling (DCF, Forecasting, Sensitivity Analysis)
+- Financial Statement Analysis
+- Equity Valuation
+- Portfolio Optimization
+- Advanced Excel (Solver, Pivot Tables, Dashboards)
+- Python (Pandas, NumPy, Matplotlib)
+- Power BI (Financial Dashboards & Visualization)
+## Projects
+- Portfolio Optimization Model (Excel & Python)
+- Moving Average Strategy Backtester
+- Nike DCF Valuation Model
+- Financial Statement Anaysis Dashboard
+## Career Objective
+Seeking entry-level opportunities in financial analysis, Corporate Finance, Investment Analysis, or Equity Research roles. 
