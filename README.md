@@ -13,7 +13,7 @@ Finance Postgraduate with  strong academic foundation and project-based experien
 ## Projects
 - Portfolio Optimization Model (Excel & Python)
 - Moving Average Strategy Backtester
-- Nike DCF Valuation Model
+-  DCF Valuation Model
 - Financial Statement Anaysis Dashboard
 ## Career Objective
 Seeking entry-level opportunities in financial analysis, Corporate Finance, Investment Analysis, or Equity Research roles. 
