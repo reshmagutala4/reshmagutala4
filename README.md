@@ -13,9 +13,9 @@ MBA Finance graduate from **Manipal University Jaipur** with hands-on experience
 - 📍 Boisar, Maharashtra, India · Open to Remote
 - 🎓 MBA Finance · Manipal University Jaipur (2023–2025)
 - 🏢 Virtual Intern · **KPMG Career Catalyst** (Tax Research & GST Compliance)
-- 🌐 Portfolio: [quiet-gumdrop-d33013.netlify.app](https://quiet-gumdrop-d33013.netlify.app)
+- 🌐 Portfolio: https://reshma-gutala.netlify.app/
 - 📧 reshmagutala4@gmail.com
-- 💼 LinkedIn: [reshma-gutala-901615340](https://linkedin.com/in/reshma-gutala-901615340)
+- 💼 LinkedIn: https://linkedin.com/in/reshma-gutala-901615340
 
 ---
 
